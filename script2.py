@@ -1,4 +1,4 @@
-hoje = 10
-amanha = 11
-futuramente = hoje+amanha
-print("depois é: ",futuramente)
+a = 10
+b = 11
+total = a + b
+print("Total: ",total)
