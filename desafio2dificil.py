@@ -9,3 +9,6 @@ print("Total: ",moedastotais)
 
 moedastotaistotais = moedastotais+30
 print("Total depois de encontrar 30 moedas: ",moedastotaistotais)
+
+nome = input("Qual é o nome?: ")
+print("Olá,",nome)
